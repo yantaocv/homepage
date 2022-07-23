@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tao Yan's Home Pages
 
 You can use the [editor on GitHub](https://github.com/yantaocv/yantao.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
